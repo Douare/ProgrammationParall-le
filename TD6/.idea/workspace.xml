@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16d7b543-b684-4c20-b144-41d3b327a266" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../SupportCoursOpenMP/Cours1/Codes/ExempleCondition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SupportCoursOpenMP/Cours1/Codes/ExempleCondition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SupportCoursOpenMP/Cours2/Codes/Sections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SupportCoursOpenMP/Cours2/Codes/Sections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SupportCoursOpenMP/Cours2/Cours6_OpenMPBaBA.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SupportCoursOpenMP/Cours2/Cours6_OpenMPBaBA.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TD4_threads/Codes/TD4_Complet/VecAdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TD4_threads/Codes/TD4_Complet/VecAdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TD5_BAbaOpenMP/Codes/TD5_Complet/MinMax/MinMax.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TD5_BAbaOpenMP/Codes/TD5_Complet/MinMax/MinMax.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fibonacci/Fibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fibonacci/Fibonacci.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fibonacci/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fibonacci/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mandelbrot.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mandelbrot.ppm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sujet/td6.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sujet/td6.tex" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1Tp2y7up2vIpoZC9n0u06C5qhoY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Fibonacci" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16d7b543-b684-4c20-b144-41d3b327a266" name="Default Changelist" comment="" />
+      <created>1574142967912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574142967912</updated>
+      <workItem from="1574142968984" duration="2458000" />
+      <workItem from="1574168900124" duration="4978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
